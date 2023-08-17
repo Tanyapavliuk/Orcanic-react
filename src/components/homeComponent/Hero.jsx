@@ -7,11 +7,10 @@ function Hero() {
   return (
     <HeroWrap>
       <Container>
-        <SubTitle text="100% Natural Food" />
-        <Title
-          text="Choose the best healthier way of life"
-          style={{ width: 530 }}
-        />
+        <SubTitle>100% Natural Food</SubTitle>
+        <Title style={{ width: 530 }}>
+          Choose the best healthier way of life
+        </Title>
         <Button></Button>
       </Container>
     </HeroWrap>
