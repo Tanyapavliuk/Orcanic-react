@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Orcanic-react/static/css/main.6076b728.css",
+    "main.js": "/Orcanic-react/static/js/main.7fbb9922.js",
+    "static/media/Image.jpg": "/Orcanic-react/static/media/Image.71ff2948aa339e497129.jpg",
+    "static/media/offer.jpg": "/Orcanic-react/static/media/offer.124db7ef6df91efb8c29.jpg",
+    "static/media/natural.jpg": "/Orcanic-react/static/media/natural.9426fb2dc4f62d069ee5.jpg",
+    "static/media/symbol-defs.svg": "/Orcanic-react/static/media/symbol-defs.3fc4198605cd8764dde4fc47dc4877aa.svg",
+    "index.html": "/Orcanic-react/index.html",
+    "main.6076b728.css.map": "/Orcanic-react/static/css/main.6076b728.css.map",
+    "main.7fbb9922.js.map": "/Orcanic-react/static/js/main.7fbb9922.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6076b728.css",
+    "static/js/main.7fbb9922.js"
+  ]
+}
